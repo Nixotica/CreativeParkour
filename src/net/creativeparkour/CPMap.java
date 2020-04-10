@@ -1875,4 +1875,6 @@ public class CPMap
 	{
 		attempts.clear();
 	}
+
+	/* Nixotica's comment */
 }
